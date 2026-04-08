@@ -1,1 +1,2 @@
 this is my first git practice file
+I am practicing git add, commit, push, and pull
